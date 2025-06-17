@@ -7,6 +7,13 @@
 - **목적**: 화재 사각지대 해소 및 초기 대응력 강화를 위한 데이터 기반 정책 제안
 - **주요 성과**: 정책 제안 제출, 서울시 공식 검토 답변 확보
 
+## ⚙ 사용 기술
+- Python (pandas, numpy, geopandas, folium, plotly, scikit-learn, streamlit)
+- Excel
+- PowerPoint
+- Slack
+- Notion
+
 ## 🔑 문제 정의
 서울시는 소방차 진입 곤란 지역이 전국에서 가장 많으며, 특히 주택 화재에서 골든타임 확보율이 낮습니다. 기존 상업지 중심 화재 대응 한계를 보완하고 화재 사각지대 해소를 위한 추가 대응 방안이 필요합니다.
 
@@ -28,9 +35,3 @@
 - [Streamlit 대시보드](https://suhyeon0325-seoulfiredash----zpxwpg.streamlit.app/)
 - [대시보드 시연 영상 (YouTube)](https://www.youtube.com/watch?v=Y15JNbI---8)
 
-## ⚙ 사용 기술
-- Python (pandas, numpy, geopandas, folium, plotly, scikit-learn, streamlit)
-- Excel
-- PowerPoint
-- Slack
-- Notion
